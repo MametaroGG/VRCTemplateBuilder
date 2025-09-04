@@ -1,0 +1,8 @@
+{
+  "name": "com.mame2an.vccprojecttemplatebuilder",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true,
+  "overrideReferences": false
+}
+
