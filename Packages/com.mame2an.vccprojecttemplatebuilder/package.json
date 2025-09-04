@@ -8,7 +8,7 @@
     "email": "tyarity3@gmail.com"
   },
   "description": "Create VRChat Creator Companion user templates from your current project.",
-  "author": { "name": "Mame2an", "email": "your@email.example" },
+  "author": { "name": "Mametaro", "email": "tyarity3@gmail.com" },
   "vpmDependencies": {},
   "url": "https://example.com/com.mame2an.vccprojecttemplatebuilder-1.0.0.zip",
   "license": "MIT",
@@ -16,3 +16,4 @@
     "Assets/Mame2an/VCCProjectTemplateBuilder": "" 
   }
 }
+
