@@ -1,12 +1,15 @@
 {
   "name": "com.mame2an.vccprojecttemplatebuilder",
-  "displayName": "VCC Template Builder",
+  "displayName": "VCC Project Template Builder",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "Create VRChat Creator Companion user templates from your current project.",
-  "author": { "name": "Mametaro", "email": "tyarity3@gmail.com" },
-  "vpmDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.7.0"
+  },
   "url": "https://github.com/MametaroGG/VRCTemplateBuilder/releases/download/v1.0.0/com.mame2an.vccprojecttemplatebuilder-1.0.0.zip",
-  "license": "MIT",
-  "legacyFolders": { "Assets/Mame2an/VCCProjectTemplateBuilder": "" }
+  "description": "Create VRChat Creator Companion user templates from your current project.",
+  "author": {
+    "name": "Mametaro",
+    "url": "https://github.com/MametaroGG"
+  }
 }
