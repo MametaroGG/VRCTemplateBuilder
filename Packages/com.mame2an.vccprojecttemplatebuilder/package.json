@@ -10,10 +10,11 @@
   "description": "Create VRChat Creator Companion user templates from your current project.",
   "author": { "name": "Mametaro", "email": "tyarity3@gmail.com" },
   "vpmDependencies": {},
-  "url": "https://example.com/com.mame2an.vccprojecttemplatebuilder-1.0.0.zip",
+  "url": "https://github.com/MametaroGG/VRCTemplateBuilder/releases/download/v1.0.0/com.mame2an.vccprojecttemplatebuilder-1.0.0.zip",
   "license": "MIT",
   "legacyFolders": {
     "Assets/Mame2an/VCCProjectTemplateBuilder": "" 
   }
 }
+
 
